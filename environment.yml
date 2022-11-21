@@ -1,0 +1,7 @@
+name: markovflow
+dependencies:
+  - python==3.7
+  - anaconda
+  - pip
+  - pip:
+    - -r requirements.txt
